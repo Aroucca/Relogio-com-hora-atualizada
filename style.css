@@ -1,0 +1,49 @@
+body{
+    background-color: aqua;
+    margin-top: 50px;
+}
+.caixa1{
+    text-align: center;
+    border: 3px solid black;
+    padding: 30px;
+    border-radius: 40px;
+    margin-right: 30px;
+    margin-left: 50px;
+    margin-left: 50px;
+}
+.caixa2{
+    text-align: center;
+    border: 3px solid black;
+    padding: 30px;
+    border-radius: 40px;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-left: 50px;
+}
+
+#btn1{
+    border: 3px solid black;
+    border-radius: 30px;
+    background-color:black ;
+    color: azure;
+
+}
+#btn2{
+    border: 3px solid black;
+    border-radius: 30px;
+    background-color:black ;
+    color: azure;
+}
+#btn2:hover{
+    background-color: darkblue;
+}
+#btn1:hover{
+    background-color: darkblue;
+}
+
+
+table{
+    border: 2px solid black;
+    margin: auto;
+}
